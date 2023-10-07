@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { style } from '../styles';
+import { styles } from '../styles';
 import { staggerContainer } from '../utils/motion';
 import { Component } from 'react';
 
