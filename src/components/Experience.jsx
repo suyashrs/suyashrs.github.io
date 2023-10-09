@@ -37,9 +37,9 @@ const ExperienceCard = ({experience}) => {
           </li>
         ))}
       </ul>
-    </VerticalTimelineElement>
+    </VerticalTimelineElement> 
   );
-}
+};
 const Experience = () => {
   return (
     <>
