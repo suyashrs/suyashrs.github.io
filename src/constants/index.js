@@ -116,15 +116,15 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Game Developer Intern",
+    company_name: "Oooh Inc.",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "September 2022 - December 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Designing and developing mobile game module using Javascript, CSS, and HTML .",
+      "Collaborating with cross-functional teams including artists, UI/UX designers, and other developers to create high-quality experiences.",
+      "Implementing responsive design and ensuring  compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
