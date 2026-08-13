@@ -122,10 +122,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "September 2022 - December 2022",
     points: [
-      "Designing and developing mobile game module using Javascript, CSS, and HTML .",
-      "Collaborating with cross-functional teams including artists, UI/UX designers, and other developers to create high-quality experiences.",
-      "Implementing responsive design and ensuring  compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Independently and collaboratively developed features for existing and new products, adhering to specified coding standards and methodologies.",
+      "Successfully managed personal schedule, estimating task completion times, and ensuring tasks were completed within specified timeframes.",
+      "Provided crucial support for legacy systems, collaborating with customers and service teams to troubleshoot and resolve issues promptly.",
     ],
   },
   {
